@@ -1,0 +1,45 @@
+html{
+    font-family: 'RocknRoll One', sans-serif;
+    background-color: black;
+    
+}
+h1{
+    color:white;
+}
+
+h2{
+    color: white;
+}
+li{
+    color: white;
+}
+.witcher{
+    width: 150px;
+    position: realtive;
+    margin-top: -300px;
+    margin-left: 400px;
+}
+.monkeys{
+    width: 150px;
+    position: realtive;
+    margin-top: -300px;
+    margin-left: 400px;
+}
+.titan{
+    width: 200px;
+    position: realtive;
+    margin-top: -300px;
+    margin-left: 370px;
+}
+.Deadpool{
+    width: 170px;
+    position: realtive;
+    margin-top: -300px;
+    margin-left: 380px;
+}
+.mma{
+    width: 200px;
+    position: realtive;
+    margin-top: -300px;
+    margin-left: 370px;
+}
