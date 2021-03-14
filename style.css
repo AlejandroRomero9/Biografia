@@ -21,40 +21,46 @@ h1{
 
 h2{
     color: white;
+    margin-left: 500px;
 }
 li{
     color: white;
 }
+
+ul{
+   margin-left: 500px;
+}
+
 .witcher{
     width: 150px;
     position: realtive;
     margin-top: -300px;
-    margin-left: 400px;
+    margin-left: 920px;
 }
 .monkeys{
     width: 150px;
     position: realtive;
     margin-top: -300px;
-    margin-left: 400px;
+    margin-left: 920px;
 }
 .titan{
     width: 200px;
     position: realtive;
     margin-top: -300px;
-    margin-left: 370px;
+    margin-left: 900px;
 }
 .Deadpool{
     width: 170px;
     position: realtive;
     margin-top: -300px;
-    margin-left: 380px;
+    margin-left: 910px;
     
 }
 .mma{
     width: 200px;
     position: realtive;
     margin-top: -300px;
-    margin-left: 370px;
+    margin-left: 900px;
 }
 
 
