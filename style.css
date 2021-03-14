@@ -3,6 +3,18 @@ html{
     background-color: black;
     
 }
+
+article{
+    
+    border: 5px solid ;
+    border-color: rgb(49, 49, 49);
+    border-radius: 10px;
+}
+
+header{
+    text-align: center;
+}
+
 h1{
     color:white;
 }
@@ -36,6 +48,7 @@ li{
     position: realtive;
     margin-top: -300px;
     margin-left: 380px;
+    
 }
 .mma{
     width: 200px;
@@ -43,3 +56,5 @@ li{
     margin-top: -300px;
     margin-left: 370px;
 }
+
+
